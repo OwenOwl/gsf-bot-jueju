@@ -3,7 +3,7 @@ from os import path
 import json
 
 HOST = '172.17.0.1'
-PORT = 8080
+PORT = 8084
 
 SUPERUSERS = {2801511863}
 GAME_GROUPS = {959511489}
