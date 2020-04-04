@@ -2,7 +2,7 @@ from nonebot.default_config import *
 from os import path
 import json
 
-HOST = '0.0.0.0'
+HOST = '172.17.0.1'
 PORT = 8080
 
 SUPERUSERS = {2801511863}
